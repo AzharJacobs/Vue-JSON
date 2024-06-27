@@ -1,0 +1,219 @@
+{
+    "jobTitle": [{
+        "title": "Fullstack Developer"
+    },
+    {
+        "title": "Software Engineer"
+    },
+    {
+        "title": "UI/UX Designer"
+    }
+
+    ],
+    "aboutMe": [
+        {
+            "name": "About",
+            "text": "I am a compassionate person who enjoys having fun and joking around while knowing when to lock in and take things seriously. I hold values such as respect, kindness, integrity and mindfulness. I also pride myself on being honest and transparent. I enjoy improving myself and encouraging others. My interests are almost endless but my favourite hobbies are exercising, MMA, football, web development and design, drawing, music, watching movies and spending time with my loved ones."
+        },
+        {
+            "name": "Objective",
+            "text": "I am quite ambitious and strive to be healthy and successful in all areas of my life. I crave wisdom and improvement so upskilling is second nature. I aim to cultivate generational wealth and impact many lives for the better."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Calculator",
+            "github": "https://github.com/caleb-okkers/calculator.git",
+            "vercel": "https://calculator-ruddy-gamma.vercel.app/",
+            "description": "Calculator using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
+        },
+        {
+            "name": "To Do List",
+            "github": "https://github.com/caleb-okkers/toDoList.git",
+            "vercel": "https://to-do-list-psi-gules.vercel.app/",
+            "description": "To Do List using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
+        },
+        {
+            "name": "Resturant",
+            "github": "https://github.com/caleb-okkers/mp3Player.git",
+            "vercel": "https://mp3-player-topaz.vercel.app/",
+            "description": "MP3 player using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
+        },
+        {
+            "name": "Role Play Game",
+            "github": "",
+            "vercel": "",
+            "description": "Role Play Game using HTML, CSS and Javascript",
+            "image": ""
+        }
+    ],
+
+    "education": [
+        {
+            "qualification": "Fullstack Web Development Bootcamp",
+            "year": "April 2024 - ",
+            "institution": "Life Choices Coding Academy",
+            "contact": [
+                {
+                    "name": "Matthew Brown",
+                    "contactDetails": "071 563 4139"
+                }
+            ]
+        },
+        {
+            "qualification": "Collage of Cape Town",
+            "year": "January 2023 - December 2023",
+            "institution": "Stellenbosch University"
+        },
+        {
+            "qualification": "IT Academey",
+            "year": "January 2021 - December 2021",
+            "institution": "CPUT"
+        },
+        {
+            "qualification": "NSC",
+            "year": "January 2016 - December 2020",
+            "institution": "Oude Molen Technical high school"
+        }
+    ],
+
+    "skills": [
+        {
+            "icon": "icon",
+            "name": "HTML"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "CSS"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Bootstrap"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Javascript"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Vue"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Git"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Github"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Azure"
+        },
+        {
+            "icon": "icon",
+            "name": "PhotoShop"
+        },
+        {
+            "icon": "icon",
+            "name": "MySQL"
+        }
+        
+
+    ],
+
+    "work": [
+        {
+            "company": "Oppo Inc",
+            "year": "Febuary 2023 - January 2024",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        }
+
+    ],
+
+    "testimonials": [
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        }
+    ]
+}
